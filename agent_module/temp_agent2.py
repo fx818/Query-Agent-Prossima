@@ -32,7 +32,7 @@ print(db.get_usable_table_names())
 
 # Initialize Groq LLM
 llm = ChatGroq(
-    api_key="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",
+    api_key="---",
     model="llama-3.1-8b-instant"
 )
 
